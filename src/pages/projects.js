@@ -125,7 +125,7 @@ const projects = () => {
                 title="Generative AI PowerPointer Generator"
                 img={AIPPTGenerator}
                 summary="I developed this project using Python 3, integrating a large language model and retrieval-augmented generation. 
-                I utilized GPT-4 as the AI engine and the Langchain framework to create a vector database, establishing a robust data source
+                I use GPT-4 as the AI engine and the Langchain framework to create a vector database, establishing a robust data source
                  for GPT-4. Subsequently, I used GPT-4 to summarize the data and generate a PowerPoint file."
                 link="https://drive.google.com/file/d/1Fy7VDAaMI33kW1M9K6VLRzrMk56K1tUS/view?usp=sharing"
                 type="Featured Project"
