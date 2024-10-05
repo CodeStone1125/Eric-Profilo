@@ -6,7 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { GithubIcon } from "@/components/Icons";
 import Helper003 from "../../public/images/projects/Helper003.png";
-import AIPPTGenerator from "../../public/images/projects/Generative AI PPT Generator.png";
+import AIPPTGenerator from "../../public/images/projects/Generative-AI-PPT-Generator.png";
 import YuoYuochannel from "../../public/images/projects/YuoYuo-channel.png";
 import Quad from "../../public/images/projects/Quad.png";
 import CGlabs from "../../public/images/projects/CGlabs.png";
