@@ -53,7 +53,7 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium">
-               Hi, I'm Eric. As a dedicated graduate student pursuing an MSc. in Computer Science at National
+               Hi, I'm Eric. As a dedicated graduate student pursuing an MSc. In Computer Science at National
                Yang Ming Chiao Tung University(NYCU), Taiwan, I am deeply passionate about advancing
                the frontiers of technology, particularly in the performance optimization specific
                in codesign. 
